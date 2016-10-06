@@ -1,4 +1,4 @@
-# American Football Formations
+# American Football Formations :football:
 
 This repository contains the American Football formations in the [SVG format](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics).
 The use of SVG makes it easy to integrate it in your website or application, regardless of the required size.
