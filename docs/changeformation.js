@@ -28,7 +28,7 @@ var formations = {
 window.onload = function() {
   $('li.formation').each(function(){
     $(this).click(function(){
-      $('img.formation').attr('src', '../offence/' + $(this).attr('data-formation') + '.svg');
+      $('img.formation').attr('src', './img/offence/' + $(this).attr('data-formation') + '.svg');
       $('#formation-name').text(formations[$(this).attr('data-formation')].name);
     });
   });
