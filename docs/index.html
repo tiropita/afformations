@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="changeformation.js"></script>
+</head>
+<body>
+
+  <div class="container">
+    <div class="jumbotron">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li role="presentation" class="active"><a href="#">Github</a></li>
+          </ul>
+        </nav>
+      </div>
+      <h2>American Football Formations 🏈</h2>
+      <p>Browse the American Football formations available in our <a href="https://github.com/tiropita/afformations">Github repo</a>. Read the README if you want to use for your website or project.</p>
+    </div>
+
+    <div class='row'>
+      <div class="col-lg-4">
+
+      </div>
+      <div class="col-lg-8">
+        <h3 id='formation-name'>Basic I Formation</h3>
+      </div>
+    </div>
+
+    <div class="col-lg-4">
+      <div class="panel-group" id="accordion">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Offence</a>
+            </h4>
+          </div>
+          <div id="collapse1" class="panel-collapse collapse in">
+            <div class="panel-group" id="accordion2">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title">
+                    &nbsp;&nbsp;<a data-toggle="collapse" data-parent="#accordion2" href="#collapse1a">I Formation</a>
+                  </h4>
+                </div>
+                <div id="collapse1a" class="panel-collapse collapse">
+                  <ul class="list-group">
+                    <li class="list-group-item formation" data-formation='i'>Basic</li>
+                    <li class="list-group-item formation" data-formation='power_i'>Power I</li>
+                    <li class="list-group-item formation" data-formation='maryland_i'>Maryland I</li>
+                    <li class="list-group-item formation" data-formation='i_fullback_offset_strongside'>I Fullback Offset Strongside</li>
+                    <li class="list-group-item formation" data-formation='i_fullback_offset_weakside'>I Fullback Offset Weakside</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title">
+                    &nbsp;&nbsp;<a data-toggle="collapse" data-parent="#accordion2" href="#collapse1b">Shotgun Formation</a>
+                  </h4>
+                </div>
+                <div id="collapse1b" class="panel-collapse collapse">
+                  <ul class="list-group">
+                    <li class="list-group-item formation" data-formation='shotgun'>Basic</li>
+                    <li class="list-group-item formation" data-formation='shotgun_trips_left'>Trips Left</li>
+                    <li class="list-group-item formation" data-formation='shotgun_max_protect'>Max Protect</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Defence</a>
+            </h4>
+          </div>
+          <div id="collapse2" class="panel-collapse collapse">
+            <div class="panel-body">Coming soon!</div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Special Team </a>
+              </h4>
+            </div>
+            <div id="collapse3" class="panel-collapse collapse">
+              <div class="panel-body">Coming soon!</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class='col-lg-8'>
+          <img class='formation' src="../offence/i.svg" alt="I Formation" class="img-rounded">
+        </div>
+      </div>
+    </body>
+    </html>
