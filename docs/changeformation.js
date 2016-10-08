@@ -22,6 +22,15 @@ var formations = {
   },
   shotgun_max_protect: {
     name: 'Shotgun Max Protect'
+  },
+  pistol: {
+    name: 'Pistol'
+  },
+  wishbone: {
+    name: 'Wishbone'
+  },
+  flexbone: {
+    name: 'Flexbone'
   }
 };
 
