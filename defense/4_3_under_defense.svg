@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1167px" height="543px" viewBox="0 0 1167 543" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>formations</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="4-3-under-defense" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="W" transform="translate(1056.000000, 464.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="CB" font-family="Arial-Black, Arial Black" font-size="36" font-weight="700" letter-spacing="1.00800002" fill="#FFFFFF">
+                <tspan x="11.4900469" y="54">CB</tspan>
+            </text>
+        </g>
+        <g id="T" transform="translate(465.000000, 14.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="FS" font-family="Arial-Black, Arial Black" font-size="36" font-weight="700" letter-spacing="1.00800002" fill="#FFFFFF">
+                <tspan x="14.4871172" y="54">FS</tspan>
+            </text>
+        </g>
+        <g id="T" transform="translate(401.000000, 464.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="DE" font-family="Arial-Black, Arial Black" font-size="36" font-weight="700" letter-spacing="1.00800002" fill="#FFFFFF">
+                <tspan x="12.492" y="54">DE</tspan>
+            </text>
+        </g>
+        <g id="G" transform="translate(496.000000, 464.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="DT" font-family="Arial-Black, Arial Black" font-size="36" font-weight="700" letter-spacing="1.00800002" fill="#FFFFFF">
+                <tspan x="12.492" y="54">DT</tspan>
+            </text>
+        </g>
+        <g id="C" transform="translate(591.000000, 464.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="DT" font-family="Arial-Black, Arial Black" font-size="36" font-weight="700" letter-spacing="1.00800002" fill="#FFFFFF">
+                <tspan x="12.492" y="54">DT</tspan>
+            </text>
+        </g>
+        <g id="QB" transform="translate(638.000000, 361.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="MLB" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700" letter-spacing="0.784000039" fill="#FFFFFF">
+                <tspan x="5.88259369" y="54">MLB</tspan>
+            </text>
+        </g>
+        <g id="QB-Copy" transform="translate(401.000000, 361.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="WLB" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700" letter-spacing="0.784000039" fill="#FFFFFF">
+                <tspan x="5.09646088" y="54">WLB</tspan>
+            </text>
+        </g>
+        <g id="QB-Copy-2" transform="translate(805.000000, 412.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="SLB" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700" letter-spacing="0.784000039" fill="#FFFFFF">
+                <tspan x="8.98610932" y="54">SLB</tspan>
+            </text>
+        </g>
+        <g id="WR" transform="translate(31.000000, 464.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="CB" font-family="Arial-Black, Arial Black" font-size="36" font-weight="700" letter-spacing="1.00800002" fill="#FFFFFF">
+                <tspan x="11.4900469" y="54">CB</tspan>
+            </text>
+        </g>
+        <g id="HB" transform="translate(765.000000, 93.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="SS" font-family="Arial-Black, Arial Black" font-size="36" font-weight="700" letter-spacing="1.00800002" fill="#FFFFFF">
+                <tspan x="13.4939531" y="54">SS</tspan>
+            </text>
+        </g>
+        <g id="G" transform="translate(686.000000, 464.000000)">
+            <circle id="Oval" fill="#9B9B9B" cx="39.5" cy="39.5" r="39.5"></circle>
+            <text id="DE" font-family="Arial-Black, Arial Black" font-size="36" font-weight="700" letter-spacing="1.00800002" fill="#FFFFFF">
+                <tspan x="12.492" y="54">DE</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
